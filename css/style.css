@@ -215,13 +215,14 @@
 }
 
 .consult
-{    
-    
+{        
     display: flex;
-    justify-content: space-between;
-    
-    
+    justify-content: space-between; 
+     
+   
 }
+
+
 
 .consult-box1
 {
@@ -231,7 +232,7 @@
     padding: 30px;
     width: 100%;
     margin-top: 30px;
-    margin-right: 30px;    
+      
 }
 
 .consult-box2
@@ -240,9 +241,8 @@
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 20px;
     padding: 30px;
-    width: auto;
-    margin-top: 30px;
     width: 100%;
+    margin-top: 30px;
         
 }
 
